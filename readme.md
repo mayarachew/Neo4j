@@ -4,9 +4,9 @@
 
 - Mayara Chew Marinho
 
-## What's it?
+## What is Neo4j?
 
-A native graph database. Each node contains a data register and it is connected with others nodes by relations. Queries are faster than SQL databases, because the relations are registered in the database and we do not have to do a lot of queries using the index.
+Neo4j is a native graph database. Each node contains a data register and it is connected with others nodes by relations. Queries are faster than SQL databases, because the relations are registered in the database and we do not have to do a lot of queries using the index.
 
 https://neo4j.com/developer/get-started/
 
